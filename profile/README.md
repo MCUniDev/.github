@@ -5,3 +5,5 @@ Hey, we're the MCUni DevTeam, we're working to improve MCUni digital services an
 Our website: https://dev.mcuni.org
 
 JavaDocs: https://jd.dev.mcuni.org
+
+Documentation: https://lewiscmilburn.gitbook.io/mcuni/
